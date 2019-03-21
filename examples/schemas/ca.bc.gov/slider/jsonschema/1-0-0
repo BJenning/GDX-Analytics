@@ -18,9 +18,9 @@
             "maxLength": 255
         }
     },
-    "role": {
+    "groups": {
 			"type": "string",
-			"enum": ["CSR", "Reception", "GA"]
+			"enum": ["GOV", "NEWS", "INTRANET"]
 		},
 	},
     "minProperties": 2,
