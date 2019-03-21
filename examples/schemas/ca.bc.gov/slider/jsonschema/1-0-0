@@ -22,9 +22,6 @@
 			"type": "string",
 			"enum": ["CSR", "Reception", "GA"]
 		},
-		"quick_txn": {
-			"type": "boolean"
-		}
 	},
     "minProperties": 2,
     "required": ["title","url"],
